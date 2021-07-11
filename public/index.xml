@@ -6,25 +6,6 @@
     <description>Recent content on 清谈</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>&amp;copy; Joker 2021</copyright>
-    <lastBuildDate>Sun, 06 Jun 2021 01:55:42 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Whotheone</title>
-      <link>/about/whotheone/</link>
-      <pubDate>Sun, 06 Jun 2021 01:55:42 +0800</pubDate>
-      
-      <guid>/about/whotheone/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ten Years</title>
-      <link>/posts/ten-years/</link>
-      <pubDate>Sun, 06 Jun 2021 01:55:23 +0800</pubDate>
-      
-      <guid>/posts/ten-years/</guid>
-      <description></description>
-    </item>
-    
+    <copyright>&amp;copy; Joker 2021</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

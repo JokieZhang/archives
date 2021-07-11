@@ -1,0 +1,9 @@
+archetypes/
+content/
+config/
+data/
+layouts/
+resources/
+themes/
+static/
+_index.md
