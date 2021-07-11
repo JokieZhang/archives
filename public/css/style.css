@@ -195,12 +195,17 @@ img {
     padding: 24px 0;
 }
 
-.c-title {
+.c-p-title {
     font-weight: 300;
     position: relative;
     top: 50px;
     font-family: Open Sans, sans-serif
 }
+.c-title {
+    font-weight: 300;
+    font-family: Open Sans, sans-serif
+}
+
 
 .c-links {
     display: -webkit-box;

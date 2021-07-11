@@ -6,24 +6,18 @@
     <description>Recent content on 清谈</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>&amp;copy; Joker 2021</copyright>
-    <lastBuildDate>Sun, 06 Jun 2021 01:55:42 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; Joker 2021</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Whotheone</title>
-      <link>/about/whotheone/</link>
-      <pubDate>Sun, 06 Jun 2021 01:55:42 +0800</pubDate>
+      <title>关于Joker的一切</title>
+      <link>/about/</link>
+      <pubDate>Sun, 06 Jun 2021 02:02:55 +0800</pubDate>
       
-      <guid>/about/whotheone/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ten Years</title>
-      <link>/posts/ten-years/</link>
-      <pubDate>Sun, 06 Jun 2021 01:55:23 +0800</pubDate>
-      
-      <guid>/posts/ten-years/</guid>
-      <description></description>
+      <guid>/about/</guid>
+      <description>假如有一天 我离开这个世界 那些终将遗忘我的人说 来 我们刻一块墓碑 记住他
+亲爱的 愿你们能找出合适的词汇
+要实在为难 不妨这样写
+ 一个平凡的 儿子，弟弟，农民，诗人，丈夫，父亲，程序员 长眠此地 他睡眠一直很好 世界留给你们喧嚣
+ </description>
     </item>
     
   </channel>
